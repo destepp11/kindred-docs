@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://C:/workspace/slick.zip!/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/workspace/slick.zip!/src" />
+      <root url="jar://C:/workspace/slick.zip!/tools" />
+    </SOURCES>
+  </library>
+</component>
