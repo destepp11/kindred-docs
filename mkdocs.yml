@@ -1,6 +1,10 @@
 site_name: Kindred
 pages:
-    - Home: index.md
-    - Lore: lore.md
-    - About: about.md
-theme: slate
+  - Home: index.md
+  - Lore:
+    - 'Myth': 'lore/myth.md'
+    - 'Chapter 1': 'lore/chapter1.md'
+    - 'Chapter 2': 'lore/chapter2.md'
+    - 'Chapter 3': 'lore/chapter3.md'
+  - About: about.md
+theme: cinder
