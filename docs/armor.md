@@ -2,9 +2,7 @@
 
 ## Armor Listing by Character Class
 
-
-
-| Knight	      |	Dragoon		  | Viking		     | Thief			| Black Mage 	   | White Mage		  | Summoner		 | Red Mage 		| Archer 		  |
+| Knight	      |	Dragoon		  | Viking		     | Thief			| Black Mage 	   | White Mage		  | Conjurer		 | Red Mage 		| Archer 		  |
 | --------------- | ---------------  | ---------------  | ---------------  | ---------------  | ---------------  | ---------------  | ---------------  | --------------- | 
 | Chain Armor 	  |	Iron Plate		| Hide Plate		 | Chain Shirt	    | Black Robe		| White Robe	  |	Rags		     | Chain Armor		| Chain Armor     |
 | Dragon Armor	  |	Dragon Armor	| Dragon Plate	     | Gold Bracelet	| Dragon Skull	    | Dragon Skull    | Dragon Skull	 | Dragon Armor		| Dragon Armor    |
