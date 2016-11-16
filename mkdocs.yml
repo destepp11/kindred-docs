@@ -1,14 +1,15 @@
 site_name: Kindred
 pages:
   - Home: index.md
-  - Lore:
-    - 'Myth': 'lore/myth.md'
+  - Story:
     - 'Chapter 1': 'lore/chapter1.md'
     - 'Chapter 2': 'lore/chapter2.md'
     - 'Chapter 3': 'lore/chapter3.md'
-  - Weapons: weapons.md
-  - Armor: armor.md
-  - Magic: magic.md
   - Characters: characters.md
+  - Magic: magic.md
+  - Armor: armor.md
+  - Weapons: weapons.md
+  - 'Mythology':
+    - 'The Hedelion War': 'mythology/war.md'
   - About: about.md
 theme: cinder
