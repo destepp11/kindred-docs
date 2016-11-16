@@ -1,11 +1,9 @@
 #Ayre
-Story:
-            
-            -Need content.
+Story:           
+> Need content.
             
 Description:
-            	
-         	- Need some content 
+> > Need some content 
 
 
 

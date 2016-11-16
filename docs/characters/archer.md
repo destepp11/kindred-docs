@@ -1,7 +1,6 @@
 #Rodrick 
 Story:
+> Need some content.
 
-                - Need some content.
 Description:
-
-                - Need some content.
+> > Need some content.
