@@ -3,3 +3,4 @@ pages:
     - Home: index.md
     - Lore: lore.md
     - About: about.md
+theme: slate
