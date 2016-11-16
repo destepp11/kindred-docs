@@ -6,5 +6,9 @@ pages:
     - 'Chapter 1': 'lore/chapter1.md'
     - 'Chapter 2': 'lore/chapter2.md'
     - 'Chapter 3': 'lore/chapter3.md'
+  - Weapons: weapons.md
+  - Armor: armor.md
+  - Magic: magic.md
+  - Characters: characters.md
   - About: about.md
 theme: cinder
