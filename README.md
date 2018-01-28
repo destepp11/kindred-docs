@@ -1,6 +1,3 @@
-# kindred-docs
-Documentation for kindred-game built with MkDocs static site generator.
-
 # Welcome to the kindred-docs repository!
 
 ## Purpose
