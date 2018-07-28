@@ -1,0 +1,24 @@
+site_name: Kindred
+pages:
+  - Home: index.md
+  - Story:
+    - 'Mythology':
+      - 'The Hedelion War': 'mythology/war.md'
+    - 'Chapter 1': 'lore/chapter1.md'
+    - 'Chapter 2': 'lore/chapter2.md'
+    - 'Chapter 3': 'lore/chapter3.md'
+  - Characters:
+    - 'Archer': 'characters/archer.md'
+    - 'Black Mage': 'characters/blackMage.md'
+    - 'Conjurer': 'characters/conjurer.md'
+    - 'Dragoon': 'characters/dragoon.md'
+    - 'Knight': 'characters/knight.md'
+    - 'Red Mage': 'characters/redMage.md'
+    - 'Thief': 'characters/thief.md'
+    - 'Viking': 'characters/viking.md'
+    - 'White Mage': 'characters/whiteMage.md'
+  - Magic: magic.md
+  - Armor: armor.md
+  - Weapons: weapons.md
+  - About: about.md
+theme: cinder
